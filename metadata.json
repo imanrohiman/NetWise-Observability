@@ -1,0 +1,6 @@
+{
+  "name": "NetWise Observability Suite",
+  "description": "A high-performance monitoring dashboard inspired by Grafana, Prometheus, and Loki. Features real-time metric visualization and log aggregation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
